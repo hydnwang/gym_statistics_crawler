@@ -1,0 +1,5 @@
+.credentials
+.secret
+__pycache__
+bin
+lib
