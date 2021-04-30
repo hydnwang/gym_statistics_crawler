@@ -20,7 +20,7 @@ python-dateutil==2.6.1
 pytz==2018.3
 pytzdata==2018.3
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 six==1.11.0
 tzlocal==1.5.1
 uritemplate==3.0.0
